@@ -1,4 +1,4 @@
-### Auto Tagger for AI Agents Hackathon Issues (projects)
+### Auto Tagging for AI Agents Hackathon Issues (projects)
 
 #### Components
 
