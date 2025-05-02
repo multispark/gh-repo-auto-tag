@@ -1,0 +1,602 @@
+[
+  {
+    "number": 735,
+    "labels": [
+      "Copilot",
+      "Python",
+      "JavaScript/TypeScript",
+      "C#",
+      "Azure AI Agent Service"
+    ]
+  },
+  {
+    "number": 721,
+    "labels": [
+      "Python",
+      "Copilot",
+      "Azure AI Agent Service",
+      "JavaScript/TypeScript"
+    ]
+  },
+  {
+    "number": 626,
+    "labels": [
+      "Python",
+      "Copilot",
+      "Azure AI Agent Service",
+      "JavaScript/TypeScript"
+    ]
+  },
+  {
+    "number": 588,
+    "labels": [
+      "Python",
+      "Java",
+      "Copilot"
+    ]
+  },
+  {
+    "number": 568,
+    "labels": [
+      "Python",
+      "Copilot",
+      "Azure AI Agent Service"
+    ]
+  },
+  {
+    "number": 566,
+    "labels": [
+      "Java",
+      "Copilot",
+      "Python",
+      "JavaScript/TypeScript",
+      "C#",
+      "Azure AI Agent Service"
+    ]
+  },
+  {
+    "number": 528,
+    "labels": [
+      "Python",
+      "Copilot"
+    ]
+  },
+  {
+    "number": 522,
+    "labels": [
+      "Python",
+      "Copilot"
+    ]
+  },
+  {
+    "number": 520,
+    "labels": [
+      "Java",
+      "Copilot",
+      "Python",
+      "JavaScript/TypeScript",
+      "C#",
+      "Azure AI Agent Service"
+    ]
+  },
+  {
+    "number": 491,
+    "labels": [
+      "Python",
+      "C#",
+      "Azure AI Agent Service",
+      "Copilot"
+    ]
+  },
+  {
+    "number": 446,
+    "labels": [
+      "Python",
+      "Copilot",
+      "Azure AI Agent Service"
+    ]
+  },
+  {
+    "number": 410,
+    "labels": [
+      "Python",
+      "Copilot"
+    ]
+  },
+  {
+    "number": 402,
+    "labels": [
+      "Python",
+      "Copilot",
+      "Azure AI Agent Service"
+    ]
+  },
+  {
+    "number": 368,
+    "labels": [
+      "Python",
+      "Copilot"
+    ]
+  },
+  {
+    "number": 354,
+    "labels": [
+      "Python",
+      "Copilot",
+      "Azure AI Agent Service"
+    ]
+  },
+  {
+    "number": 350,
+    "labels": [
+      "Python",
+      "Copilot",
+      "Azure AI Agent Service"
+    ]
+  },
+  {
+    "number": 321,
+    "labels": [
+      "Python",
+      "Copilot",
+      "Azure AI Agent Service",
+      "JavaScript/TypeScript"
+    ]
+  },
+  {
+    "number": 319,
+    "labels": [
+      "Python",
+      "Copilot",
+      "Azure AI Agent Service"
+    ]
+  },
+  {
+    "number": 298,
+    "labels": [
+      "Python",
+      "Copilot",
+      "Azure AI Agent Service"
+    ]
+  },
+  {
+    "number": 263,
+    "labels": [
+      "Python",
+      "Copilot"
+    ]
+  },
+  {
+    "number": 244,
+    "labels": [
+      "Java",
+      "Copilot",
+      "Python",
+      "JavaScript/TypeScript",
+      "Azure AI Agent Service"
+    ]
+  },
+  {
+    "number": 219,
+    "labels": [
+      "Python",
+      "Copilot",
+      "Azure AI Agent Service"
+    ]
+  },
+  {
+    "number": 191,
+    "labels": [
+      "Python",
+      "Copilot",
+      "Azure AI Agent Service"
+    ]
+  },
+  {
+    "number": 188,
+    "labels": [
+      "Python",
+      "Copilot",
+      "Azure AI Agent Service"
+    ]
+  },
+  {
+    "number": 162,
+    "labels": [
+      "Python",
+      "Copilot",
+      "JavaScript/TypeScript"
+    ]
+  },
+  {
+    "number": 151,
+    "labels": [
+      "Python",
+      "Copilot",
+      "Azure AI Agent Service",
+      "JavaScript/TypeScript"
+    ]
+  },
+  {
+    "number": 134,
+    "labels": [
+      "Python",
+      "Copilot",
+      "Azure AI Agent Service"
+    ]
+  },
+  {
+    "number": 123,
+    "labels": [
+      "Python",
+      "Copilot",
+      "Azure AI Agent Service"
+    ]
+  },
+  {
+    "number": 112,
+    "labels": [
+      "Python",
+      "Copilot",
+      "Azure AI Agent Service",
+      "JavaScript/TypeScript"
+    ]
+  },
+  {
+    "number": 75,
+    "labels": [
+      "Python",
+      "Copilot",
+      "Azure AI Agent Service",
+      "JavaScript/TypeScript"
+    ]
+  },
+  {
+    "number": 749,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 748,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 715,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 711,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 709,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 675,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 656,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 632,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 606,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 587,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 540,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 532,
+    "labels": [
+      "C#",
+      "Copilot"
+    ]
+  },
+  {
+    "number": 527,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 506,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 501,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 500,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 488,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 485,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 483,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 477,
+    "labels": [
+      "Copilot",
+      "JavaScript/TypeScript"
+    ]
+  },
+  {
+    "number": 464,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 456,
+    "labels": [
+      "Java",
+      "Copilot",
+      "JavaScript/TypeScript"
+    ]
+  },
+  {
+    "number": 443,
+    "labels": [
+      "Copilot",
+      "Azure AI Agent Service",
+      "JavaScript/TypeScript"
+    ]
+  },
+  {
+    "number": 414,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 405,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 365,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 361,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 356,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 355,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 348,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 347,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 342,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 331,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 320,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 314,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 310,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 303,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 274,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 242,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 241,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 240,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 238,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 232,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 209,
+    "labels": [
+      "Copilot",
+      "Azure AI Agent Service",
+      "JavaScript/TypeScript"
+    ]
+  },
+  {
+    "number": 208,
+    "labels": [
+      "Copilot",
+      "Azure AI Agent Service"
+    ]
+  },
+  {
+    "number": 166,
+    "labels": [
+      "Copilot",
+      "Azure AI Agent Service"
+    ]
+  },
+  {
+    "number": 163,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 77,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 690,
+    "labels": [
+      "Copilot",
+      "Azure AI Agent Service",
+      "JavaScript/TypeScript"
+    ]
+  },
+  {
+    "number": 603,
+    "labels": [
+      "C#",
+      "Azure AI Agent Service",
+      "Copilot"
+    ]
+  },
+  {
+    "number": 546,
+    "labels": [
+      "C#",
+      "Azure AI Agent Service",
+      "Copilot"
+    ]
+  },
+  {
+    "number": 459,
+    "labels": [
+      "Copilot",
+      "JavaScript/TypeScript"
+    ]
+  },
+  {
+    "number": 493,
+    "labels": [
+      "C#",
+      "Copilot"
+    ]
+  },
+  {
+    "number": 339,
+    "labels": [
+      "Copilot"
+    ]
+  },
+  {
+    "number": 296,
+    "labels": [
+      "Copilot"
+    ]
+  }
+]
