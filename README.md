@@ -1,4 +1,4 @@
-### Auto Tagging for AI Agents Hackathon Issues (projects)
+### Auto Tagging for [AI Agents Hackathon Issues](https://github.com/microsoft/AI_Agents_Hackathon/issues) (projects)
 
 #### Components
 
