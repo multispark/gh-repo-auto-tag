@@ -1,10 +1,10 @@
-### Auto Tagger for AI Agents Hackathon
+### Auto Tagger for AI Agents Hackathon Issues (projects)
 
 #### Components
 
-- scrape: An issue scraper and classifier of project categories that gives a final output. The classified issues are present in final.json along with the count.
-- label: convert_json.ipynb converts final.json to a format that can be parsed by our bash scripts.
-- bash: Contains bash scripts.
+- scrape: an issue scraper and classifier of project categories that gives a final output, the classified issues are present in final.json along with the count
+- label: convert_json.ipynb converts final.json to a format that can be parsed by our bash scripts
+- bash: contains bash scripts
 
 #### Steps
 
@@ -13,7 +13,7 @@
 - run tag-issues bash script using GitHub CLI
 - run tag-copilot bash script using GitHub CLI
 
-##### Notes
+#### Notes
 
 - you will need two dependencies, one is GitHub CLI and the other is a library called jq (it's how the json files are being parsed), once you have both, do a normal GitHub auth login and cd into the directory with the bash scripts
 - the command to run the bash scripts: bash script-name.sh
