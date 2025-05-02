@@ -8,7 +8,7 @@
 
 #### Steps
 
-- use scrape_combined.py, this produces final.json
+- run scrape_combined.py, this produces final.json
 - convert final.json to a format to use in bash using convert_json.ipynb (first block of code in the notebook produces issues-to-label.json, second block produces copilot-issues.json)
 - run tag-issues bash script using GitHub CLI
 - run tag-copilot bash script using GitHub CLI
