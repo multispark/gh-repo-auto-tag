@@ -18,4 +18,4 @@
 - you will need two dependencies, one is GitHub CLI and the other is a library called jq (it's how the json files are being parsed), once you have both, do a normal GitHub auth login and cd into the directory with the bash scripts
 - the command to run the bash scripts: bash script-name.sh
 
-Credit to [Paul](https://github.com/Paul-M-Kallarackal) for the scrape_combined.py script.
+Credit to [Paul-M-Kallarackal](https://github.com/Paul-M-Kallarackal) for the scrape_combined.py script.
